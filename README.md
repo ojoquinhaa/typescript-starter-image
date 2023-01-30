@@ -51,7 +51,7 @@ Projeto feito com algumas configurações iniciais e tecnologias que eu custumo 
 
 # Docker Hub Image
 
-- [ojoquinhaa/typescript-starter-image](https://hub.docker.com/r/ojoquinhaa/typescript-starter-image)
+- [ojoquinhaa/typescript-starter-pack](https://hub.docker.com/repository/docker/ojoquinhaa/typescript-starter-pack)
 
 ## Autores
 
